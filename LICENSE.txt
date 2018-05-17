@@ -1,3 +1,7 @@
+All Library Licenses can be found in LICENSE folder, By using this software you agree to them.
+
+
+
 BSD 2-Clause License
 
 Copyright (c) 2016-2018, Adam Adam@sigterm.info
